@@ -99,7 +99,7 @@ settings.experimental.aimFreezeFix 에임 멈춤 현상 해결
 settings.experimental.mouseFlickFix 마우스 순간이동 문제 해결
 settings.experimental.shaderRendering 인스턴스 렌더링
 settings.client.header 클라이언트
-settings.client.unlimitedFrames FPS 무제한
+settings.client.unlimitedFrames FPS 제한 풀기
 settings.client.gameCap 게임 캡처
 settings.client.experimental 시험 기능
 settings.client.discordRPC Discord 연동
@@ -731,26 +731,26 @@ server.config.fallDmg 추락 피해
 server.config.fallDmgThr 추락 피해 높이
 server.config.noDraws 무승부 없음
 server.config.bstOfR 다전제
-server.config.chrgWeps 무기 충전 가능
+server.config.chrgWeps 무기 게이지 충전 가능
 social.login 로그인/회원가입
 social.login.failed 로그인 실패
-social.login.buy 구매하려면 로그인하세요
-social.login.sell 판매하려면 로그인하세요
-social.login.gift KR을 주려면 로그인하세요
+social.login.buy 구매하시려면 로그인하세요
+social.login.sell 스킨을 판매하시려면 로그인하세요
+social.login.gift KR을 선물하시려면 로그인하세요
 social.login.proccessing 로그인 중...
 social.since 시작일
 social.user.maps 이 유저의 게임
 social.user.mods 이 유저의 Mod
-social.maps.none 찾은 게임이 없습니다...
-social.mods.none 찾은 Mod가 없습니다...
+social.maps.none 찾고계신 게임이 없습니다...
+social.mods.none 찾고계신 Mod가 없습니다...
 social.market.price.low 가격 오름차순
 social.market.price.list 가격 정렬 방법
 social.market.searching 검색 중...
 social.market.listed {0} 전에 게시됨
 social.market.list 아이템 게시하기
 social.market.unlist 게시 취소하기
-social.market.unlisting 게시 취소 중...
-social.market.posting 아이템 게시 중...
+social.market.unlisting 게시 취소 중입니다...
+social.market.posting 아이템 게시 중입니다...
 social.market.req {0}레벨 이상이어야 합니다.
 social.market.cant KR이 부족합니다
 social.market.purchase 구매
@@ -802,7 +802,7 @@ spin.free.disable 이 팝업들은 설정에서 차단할 수 있습니다
 mod.reset.0 리스폰 후 적용됩니다.
 mod.reset.1 맵 물체는 새로고침의 영향을 받지 않음
 windows.profile.picture 프로필 사진 변경
-stats.assists 처치 지원
+stats.assists 처치 도움
 stats.nukes 뉴크
 stats.melee 근접 처치
 stats.fistkills 격투 처치
