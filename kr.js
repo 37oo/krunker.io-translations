@@ -211,8 +211,8 @@ settings.interface.healthNum 이름표 HP 숫자 표시
 settings.interface.healthColT 팀원 이름표 HP 색상
 settings.interface.healthColE 상대 이름표 HP 색상
 settings.interface.xpBarCol XP 막대 색상
-settings.interface.xpBarCol2 XP 막대 색상 2
-settings.interface.xpBarOpac XP 막대 불투명도
+settings.interface.xpBarCol2 XP 바 색상 2
+settings.interface.xpBarOpac XP 바 불투명도
 settings.crosshair.header 조준선
 settings.crosshair.type 종류
 settings.crosshair.type.1 동적
@@ -505,8 +505,8 @@ windows.controls.interactSec 부 상호작용
 windows.controls.confirm 상호작용 확인
 windows.controls.drop 무기 떨어뜨리기
 windows.controls.wepVis 무기 보이기 전환
-windows.controls.kickVoteY 추방 투표 [찬성]
-windows.controls.kickVoteN 추방 투표 [반대]
+windows.controls.kickVoteY 플레이어 추방 투표 [찬성]
+windows.controls.kickVoteN 플레이어 추방 투표 [반대]
 windows.controls.kpdVoteY KPD 투표 [찬성]
 windows.controls.kpdVoteN KPD 투표 [반대]
 windows.controls.specFree 자유 시점 전환
@@ -740,9 +740,9 @@ social.login.gift KR을 주려면 로그인하세요
 social.login.proccessing 로그인 중...
 social.since 시작일
 social.user.maps 이 유저의 게임
-social.user.mods 이 유저의 Mod
-social.maps.none 찾은 게임이 없습니다...
-social.mods.none 찾은 Mod가 없습니다...
+social.user.mods 이 유저의 모드
+social.maps.none 찾고계신 게임이 없습니다...
+social.mods.none 찾고계신 Mod가 없습니다...
 social.market.price.low 가격 오름차순
 social.market.price.list 가격 정렬 방법
 social.market.searching 검색 중...
